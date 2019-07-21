@@ -8,7 +8,7 @@ Ubuntu Server 18.04 LTS (HVM), SSD Volume Type
 ```
 
 	
-# Get files from Githib
+# Install from Github
 ```
 git clone https://github.com/Githubdonkey/ubuntu.git
 cd ubuntu/
