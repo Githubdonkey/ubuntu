@@ -1,15 +1,34 @@
-# Update Software Repositories
-sudo apt-get update
+# Pull Ubuntu image from Offical repo
+#
+#sudo docker pull ubuntu
+#
+# Check for image
+#	sudo docker images
+# Run container interactive
+#	sudo docker run -it ubuntu
+# Check containers running
+#	sudo docker ps -a
+# Commands
+#	sudo docker start d9b100f2f636
+#	sudo docker stop d9b100f2f636
+#	sudo docker rm d9b100f2f636
 
-# Uninstall Old Versions of Docker
-sudo apt-get remove -y docker docker-engine docker.io
+# Pull from ecklerdocker
+#	sudo docker login -u ecklerdocker
+#	sudo docker pull ecklerdocker/imageubuntu
+#	sudo docker push ecklerdocker/ubuntu-nodejs
+#
+#
+#
 
-# Install Docker
-sudo apt install -y docker.io
 
-# Start and Automate Docker
-sudo systemctl start docker
-sudo systemctl enable docker
 
-# check version
-docker --version
+
+
+
+
+
+
+
+
+
