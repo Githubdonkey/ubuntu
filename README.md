@@ -8,6 +8,6 @@ Use SSH key to log into machine
 ```
 git clone https://github.com/Githubdonkey/ubuntu.git
 cd ubuntu/
-chmod +x
-./
+chmod +x ubuntu1804UbuntuContainer.sh
+./ubuntu1804UbuntuContainer.sh
 ```
