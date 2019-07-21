@@ -1,6 +1,9 @@
 # Ubuntu Server 18.04 LTS
 ```
-Install: Defaults
+Launch Instance
+	Ubuntu Server 18.04 LTS (HVM), SSD Volume Type
+		Install: Defaults
+		Create key
 Use SSH key to log into machine
 ```
 	
