@@ -2,10 +2,10 @@
 sudo apt-get update
 
 # Uninstall Old Versions of Docker
-sudo apt-get remove docker docker-engine docker.io
+sudo apt-get remove -y docker docker-engine docker.io
 
 # Install Docker
-sudo apt install docker.io
+sudo apt install -y docker.io
 
 # Start and Automate Docker
 sudo systemctl start docker
