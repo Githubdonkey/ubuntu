@@ -1,7 +1,7 @@
 # Ubuntu Server 18.04 LTS
 ```
-	Install: Defaults
-	Use SSH key to log into machine
+Install: Defaults
+Use SSH key to log into machine
 ```
 	
 # Install from Github
